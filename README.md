@@ -1,2 +1,1 @@
-# react-color-scroll
-Using React
+# React-color-scroll
