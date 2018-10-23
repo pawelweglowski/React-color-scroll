@@ -135,6 +135,7 @@ class Colorscroll extends React.Component{
             Sed ante tellus, sollicitudin non cursus in, pulvinar vel libero. Donec nisl ligula, facilisis id iaculis eget, iaculis nec eros. Aenean placerat, urna non vehicula molestie, leo lectus tristique ante, sed pretium nibh eros in justo. Sed scelerisque nec neque quis suscipit. Vivamus tincidunt justo justo, eu rhoncus mauris varius ac. Aenean blandit lacus vitae sapien ultrices, quis imperdiet nisl pellentesque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus at iaculis libero. Quisque est nisl, tempus ut quam sit amet, porttitor euismod quam. Etiam non nisl vitae augue pulvinar fermentum a non libero. Vivamus sed mi tortor. Aenean ac laoreet nisl, quis posuere diam. Donec eu imperdiet magna. Etiam sollicitudin lacinia libero a viverra. Fusce dignissim vulputate nunc eget pulvinar. Sed dolor lacus, condimentum at ex sed, gravida molestie sapien.
             </p>
         </ColorScroll>
+           
     )
   }
 };
