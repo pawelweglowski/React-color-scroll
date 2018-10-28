@@ -19,7 +19,7 @@ class Colorscroll extends React.Component{
     
    render () {
        return (
-        <ColorScroll colors={['#5a5560','#9d8d8f','#9b786f']} className='my-color-scroll' onScroll={(e) => console.log(e)}>
+        <ColorScroll colors={['#242582','#553d67','#f64c72']} className='my-color-scroll' onScroll={(e) => console.log(e)}>
            
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ullamcorper mi sodales condimentum finibus. Curabitur vel ex sodales, laoreet augue quis, porttitor nunc. Donec at orci varius, consectetur tellus vel, vehicula felis. Sed at sem fermentum, ullamcorper mi in, faucibus risus. Mauris viverra nec nisl vitae tincidunt. Nam scelerisque lorem leo, ac pretium turpis dignissim sit amet. Pellentesque neque risus, convallis vel porta ut, porttitor id elit. In orci ipsum, ultricies a egestas ac, fringilla sit amet est. Morbi ornare blandit porttitor. Nunc pulvinar suscipit turpis ut tincidunt. Nam fringilla ante sit amet ipsum ornare, eu interdum diam hendrerit.
 
